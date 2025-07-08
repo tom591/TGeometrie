@@ -9,8 +9,13 @@ After the calculation, the formula used is also displayed.
 The TGeometry program does not require installation.
 
 Square: perimeter, area, diagonal, radius of the inscribed circle, radius of the circumscribed circle
-Rectangle: perimeter, area, diagonal, radius of the circumscribed circle,
-Triangle perimeter, area,
-Trapezoid perimeter, area, median (midsegment)
+
+Rectangle: perimeter, area, diagonal, radius of the circumscribed circle
+
+Triangle: perimeter, area
+
+Trapezoid: perimeter, area, median (midsegment)
+
 Parallelogram: perimeter, area
+
 Circle: circumference, area
