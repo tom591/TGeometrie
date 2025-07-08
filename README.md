@@ -1,4 +1,4 @@
-# 🧮 TGeometry v1 (2009)
+# 🧮 TGeometrie (Geometry) (2009)
 
 **My first program from 2009 for calculating basic geometric functions (in Czech language).**  
 Completely simple mathematical calculations programmed in Visual Basic.  
@@ -61,7 +61,7 @@ The TGeometry program does not require installation.
 ## 💾 Download
 
 You can download the executable here:  
-👉 [Slunečnice.cz – TGeometry](https://www.slunecnice.cz/sw/tgeometrie/)
+👉 [Slunečnice.cz – TGeometrie](https://www.slunecnice.cz/sw/tgeometrie/)
 
 No installation required.
 
