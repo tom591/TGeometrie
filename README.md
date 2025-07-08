@@ -54,7 +54,7 @@ The TGeometry program does not require installation.
 
 ## 🖼️ Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](thumb.gif)
 
 ---
 
