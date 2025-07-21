@@ -1,8 +1,6 @@
 # 🧮 TGeometrie (Geometry) (2009)
 by Tomas Salaj
 
-![VB6 App Icon](vb6_icon.png)
-
 ---
 
 **My first program from 2009 for calculating basic geometric functions (in Czech language).**  
