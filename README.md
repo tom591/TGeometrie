@@ -1,5 +1,5 @@
 # 🧮 TGeometrie (Geometry) (2009)
-by Tomas Salaj
+by Tom Salaj
 
 ---
 
