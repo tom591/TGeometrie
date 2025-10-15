@@ -1,7 +1,9 @@
 # 🧮 TGeometrie (Geometry) (2009)
 by Tom Salaj
 
+![Language](https://img.shields.io/badge/language-Visual%20Basic-blueviolet)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/tom591/TGeometrie?tab=MIT-1-ov-file)
+
 ---
 
 **My first program from 2009 for calculating basic geometric functions (in Czech language).**  
