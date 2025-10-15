@@ -5,6 +5,7 @@ by Tom Salaj
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/tom591/TGeometrie?tab=MIT-1-ov-file)
 
 ---
+## 🧰 What is it?
 
 **My first program from 2009 for calculating basic geometric functions (in Czech language).**  
 Completely simple mathematical calculations programmed in Visual Basic.  
