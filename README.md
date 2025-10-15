@@ -81,3 +81,19 @@ No installation required.
 
 This project is not maintained and is archived here for historical and nostalgic reasons.  
 Languages: 🇨🇿 Czech only.
+
+---
+
+## 📝 License
+
+This project is released under the [MIT License](LICENSE).  
+Use freely, modify as needed. No warranty provided.
+
+---
+
+## 🚀 Final Words
+
+**Learn, code, enjoy — good luck!**  
+*Tom Salaj*
+
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20a%20Coffee&emoji=☕&slug=tomsalaj&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/tomsalaj)
